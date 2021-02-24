@@ -1,8 +1,11 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1", "email": "fedor@gmail.com", "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam cum quod nemo", "completed": false },
-    { "id": 2, "title": "Post 2", "email": "ivan@yandex.ru", "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam cum quod nemo", "completed": false },
-    { "id": 3, "title": "Post 3", "email": "sasha@mail.ru", "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam cum quod nemo", "completed": false }
+    { "id": 1, "title": "Post 1", "email": "fedor@gmail.com", "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam cum quod nemo.", "completed": false },
+    { "id": 2, "title": "Post 2", "email": "ivan@yandex.ru", "text": "Corrupti excepturi odit quaerat maxime dolor, numquam facilis soluta ipsam.", "completed": false },
+    { "id": 3, "title": "Post 3", "email": "sasha@mail.ru", "text": "Ullam cum quod nemo. Corrupti excepturi odit quaerat maxime dolor.", "completed": false },
+    { "id": 4, "title": "Post 4", "email": "rfsffsg@gmail.com", "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam cum quod nemo.", "completed": false },
+    { "id": 5, "title": "Post 5", "email": "fhjklkj@yandex.ru", "text": "Corrupti excepturi odit quaerat maxime dolor, numquam facilis soluta ipsam.", "completed": false },
+    { "id": 6, "title": "Post 6", "email": "d14fggg@mail.ru", "text": "Ullam cum quod nemo. Corrupti excepturi odit quaerat maxime dolor.", "completed": false }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
